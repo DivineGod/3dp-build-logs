@@ -13,8 +13,9 @@ These are my notes for building the [SimpleCore Redux][simplecore-redux] by [Rol
 2. [Feet](#feet)
 3. [Gantry](#gantry)
 4. [Z-axis Rails](#z-axis-rails)
-5. [Gantry Belts](#gantry-belts)
-6. [Z-axis Belts](#z-axis-belts)
+5. [Belts](#belts)
+   1. [CoreXY Belts](#corexy-belts)
+   2. [Z-axis Belts](#z-axis-belts)
 7. [Bed](#bed)
 8. [Toolhead](#toolhead)
 9. [Electronics](#electronics)
@@ -59,13 +60,13 @@ Using the 138mm tool to line up one end of a gantry extrusion with the top of th
 
 The z axis components extend below the bottom of the frame so as part of assembling the z-axis rails we need to also put on the feet.
 
-### Parts Needed
+## Parts Needed
 
  - 4 Printed feet
  - 12 M5x10mm Button Head  Screws
  - 12 M5 T-nuts
 
-### Assembly
+## Assembly
 
 For each of the for feet attach loosely the 3 T-nuts with the 3 M5x10mm Button Head Screws.
 
@@ -296,7 +297,11 @@ Insert the 20T Idler in the mount and press the D5x20mm shaft through until flus
 Mount the Idler block in the top mount printed part with an M3x12mm button head screw.
 
 
-### Belts
+# Belts
+
+## CoreXY Belts
+
+## Z-axis Belts
 
 ** TBD **
 
