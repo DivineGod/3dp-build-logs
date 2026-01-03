@@ -2,9 +2,27 @@
 
 These are my notes for building the [SimpleCore Redux][simplecore-redux] by [Rolohaun][rolohaun] and [Chaz][chaz]
 
+
+## Table of Contents
+
+1. [Frame](#frame)
+   1. [Parts Needed](#parts-needed)
+   2. [Assembling the frame](#assembling-the-frame)
+   3. [Squaring and aligning the frame](#squaring-and-aligning-the-frame)
+   4. [Squaring and aligning the gantry](#squaring-and-aligning-the-gantry)
+2. [Feet](#feet)
+3. [Gantry](#gantry)
+4. [Z-axis Rails](#z-axis-rails)
+5. [Gantry Belts](#gantry-belts)
+6. [Z-axis Belts](#z-axis-belts)
+7. [Bed](#bed)
+8. [Toolhead](#toolhead)
+9. [Electronics](#electronics)
+
+
 # Frame
 
-I ordered the Funssorlab Frame Kit and it arrived 2025-12-23 in the afternoon.
+I ordered the Funssorlab Frame Kit. It arrived intact and well packaged. The kit includes pre-drilled and tapped extrusions and screws for mounting using blind-joints.
 
 ## Parts Needed
 
@@ -198,10 +216,12 @@ Bearing in double shear printed part.
 M5 Screws and T-nuts in motor mount printed part.
 Mount loosely on upright extrusion.
 Place motor with pulley on mount.
+Slide gantry forward to align pulley teeth with belt path
+Fasten the mount.
 Screw double shear print to the motor through motor mount holes with M3x25mm button head screws.
 
 
-## Z-axis Rails
+# Z-axis Rails
 
 ### Parts Needed
 
