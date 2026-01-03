@@ -174,6 +174,32 @@ Then add the two M5x10mm button head screws and two M5 T-nuts to one set of moun
 
 Add the idler blocks to the rear upright extrusions above the gantry. Slide the X gantry to the rear and line up the rear idler block such that the 10mm 20T idler lines up with the 20T 8.5mm idler opposite, either top or bottom. The plastic parts should also ideally line up in this case. Tighten the M5 screws.
 
+## Front Motors
+
+I've chosen to use the optional double shear motor mount to ensure motion system performance.
+
+### Parts Needed
+
+**TODO**
+
+ - 2 Stepper Motors
+ - 2 20T Pulleys
+ - 2 F695 Flanged Bearings
+ - 4 M5x10mm Button Head Screws
+ - 4 M5 T-nuts
+ - 8 M3x25mm Button Head Screws
+
+### Assembly
+
+**Fix this**
+
+Pulley on motor shaft.
+Bearing in double shear printed part.
+M5 Screws and T-nuts in motor mount printed part.
+Mount loosely on upright extrusion.
+Place motor with pulley on mount.
+Screw double shear print to the motor through motor mount holes with M3x25mm button head screws.
+
 
 ## Z-axis Rails
 
@@ -181,16 +207,16 @@ Add the idler blocks to the rear upright extrusions above the gantry. Slide the 
 
 3 Gearboxes:
 
- - 6 M5x10mm Button Head Screws
- - 6 M5 T-nuts
- - 3 Z-motor mount Printed Parts (2 are the same, one is mirrored
  - 3 Z-axis Motors
+ - 3 Z-motor mount Printed Parts (2 are the same, one is mirrored)
+ - 6 M3x12mm Button Head Screws for motor mounts locking
+ - 6 M5x10mm Button Head Screws
+ - 3 M3x8mm Button Head Screws for motor mounts pivot
+ - 6 M5 T-nuts
  - 3 80T Gears
+ - 6 20T Pulleys
  - 3 Closed Loop 188mm belts
  - 3 5mmx60mm Shafts
- - 6 20T Pulleys
- - 6 M3x12mm Button Head Screws for motor mounts locking
- - 3 M3x8mm Button Head Screws for motor mounts pivot
  - 6 F695 bearings
 
 3 Top Mounts:
