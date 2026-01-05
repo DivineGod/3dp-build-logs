@@ -101,7 +101,8 @@ For each side we put the extrusion as far back on the extrusion as possible. Pos
  - 350mm Extrusion un-tapped
  - 300mm MGN9H Linear Rail
  - Printed XY joints
- - Printed spacers
+ - 2 10mm Printed spacers
+ - 2 11mm Printed spacers
  - 4 D5x30mm Shafts
  - X M3x8mm Button Head Screws
  - X M3 T-nuts
@@ -113,7 +114,17 @@ For each side we put the extrusion as far back on the extrusion as possible. Pos
  - 4 0.5mm spacer
  - 8 M3x6mm Button Head Screws
 
+For endstop switch homing:
+
+ - X-endstop Printed Part
+ - Y-endstop Printed Part
+ - 1 M3x6mm Button Head Screw
+ - 1 M3x5mmODx4mmL Heatset Insert
+ - 1 M5x16mm Screw (replacing one M5x10mm screw from above
+
 ### Assembly
+
+If using end-stop switches for homing add the heatset insert to the Right XY-joint.
 
 First we need to add the idler stacks to each of the printed XY-joints. This is a bit fiddly and does require patience and some amount of force.
 
@@ -121,7 +132,7 @@ First we need to add the idler stacks to each of the printed XY-joints. This is 
 
 For the F695 bearing stacks push in the the D5x30mm through the larger of the idler stack holes in the square corner of the XY-Joint. Then put the following components on the shaft, while pushing it further:
 
- 1. 10mm printed spacer
+ 1. 11mm printed spacer
  2. 0.5mm steel spacer
  3. F695 Bearing (flange towards spacers)
  4. 1mm steel spacer
@@ -134,7 +145,9 @@ The toothed idler stacks repeats the same process in the triangular corner:
  1. 1mm steel spacer
  2. 10mm tall 20T Idler
  3. 1mm steel spacer
- 4. Printed spacero
+ 4. 10mm printed spacer
+
+Screw the Y-trigger printed part to the Right XY joint with an M3x6mm button head screw in the hole with the M3 heatset insert. Make sure to position the trigger part so the end away from the screw sits towards the back.
 
 Add four sets of M5x10mm Screw and M5 T-nut to the XY-joint block. Don't tighten too much as we will need to be able to slide on the X-axis extrusion later
 
@@ -144,15 +157,15 @@ For the F695 bearing stacks push in the the D5x30mm through the larger of the id
 
  1. 1mm steel spacer
  2. 0.5mm steel spacer
- 3. F695 Bearing (flange opposite)
+ 3. F695 bearing (flange opposite)
  4. 1mm steel spacer
- 5. F695 Bearing (flange towards spacers)
+ 5. F695 bearing (flange towards spacers)
  6. 0.5mm steel spacer
- 7. 10mm printed spacer
+ 7. 11mm printed spacer
 
 The toothed idler stacks repeats the same process in the triangular corner:
 
- 1. Printed spacer
+ 1. 10mm printed spacer
  2. 1mm steel spacer
  3. 10mm tall 20T Idler
  4. 1mm steel spacer
